@@ -21,9 +21,12 @@ e padrões de projeto. Para o desenvolvimento do trabalho foi utilizado o framew
 --------- > Como executar o backend < ---------
 
 // No terminal 
-python -m venv venv
-venv\Scripts\activate
-pip install -r requirements.txt
-python login_gui_corpotate.py 
+1 python -m venv venv
+
+2 venv\Scripts\activate
+
+3 pip install -r requirements.txt
+
+4 python login_gui_corpotate.py 
 
 
