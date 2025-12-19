@@ -21,6 +21,8 @@ e padrões de projeto. Para o desenvolvimento do trabalho foi utilizado o framew
 --------- > Como executar o backend < ---------
 
 // No terminal 
+
+
 1 python -m venv venv
 
 2 venv\Scripts\activate
