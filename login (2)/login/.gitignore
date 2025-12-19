@@ -5,10 +5,6 @@ venv/
 # Cache Python
 __pycache__/
 *.pyc
-*.pyo
-
-# Variáveis de ambiente
-.env
 
 # Node
 node_modules/
@@ -16,6 +12,5 @@ node_modules/
 # VS Code
 .vscode/
 
-# Sistema operacional
-.DS_Store
-Thumbs.db
+# Variáveis de ambiente
+.env
