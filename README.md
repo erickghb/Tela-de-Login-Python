@@ -23,12 +23,12 @@ e padrões de projeto. Para o desenvolvimento do trabalho foi utilizado o framew
 // No terminal 
 
 
-1 python -m venv venv
+1. python -m venv venv
 
-2 venv\Scripts\activate
+2. venv\Scripts\activate
 
-3 pip install -r requirements.txt
+3. pip install -r requirements.txt
 
-4 python login_gui_corpotate.py 
+4. python login_gui_corpotate.py 
 
 
